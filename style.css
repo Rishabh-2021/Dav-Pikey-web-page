@@ -1,0 +1,23 @@
+h1 {
+    font-family: fantasy
+}
+
+body {
+    font-family: cursive
+}
+
+#D1 {
+    height: 350px
+}
+
+#D2 {
+    height: 350
+}
+
+#D3 {
+    height: 350
+}
+
+#Secion1 {
+    background: linear-gradient(#4fc290 0%, #4f8ae3 100%)
+}
